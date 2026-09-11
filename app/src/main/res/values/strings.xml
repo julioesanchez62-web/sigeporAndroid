@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="error_campos_vacios">⚠️ Por favor ingrese todos los datos.</string>
+    <string name="toast_llenar_campos">Debe llenar los campos de acceso</string>
+    <string name="bienvenida_sigepor">¡Bienvenido a SIGEPOR!\nRol: %1$s</string>
+    <string name="toast_ingreso_exitoso">Ingreso exitoso como %1$s</string>
+</resources>
